@@ -1,0 +1,9 @@
+header {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: unset;
+    padding: 10px;
+    background-color: seagreen;
+    text-align: center;
+    margin: 0;
+}
